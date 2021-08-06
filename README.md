@@ -31,3 +31,6 @@ server.port={PORT}
 
 ## Test API's endpoints
 If you want to test the API's endpoints, you can go to the route /api/v1/swagger-ui.html#/. There is a documentation of the API's endpoints
+
+## Run Unit Tests
+If you want to run unit tests of each endpoint, in the Intellij project, go to src/test/java/ and right-click on the test and select "Run {NAME}ControllerTest".  
